@@ -6,7 +6,7 @@ services:
     image: gefogen/sky-course-5
     build: .
     ports:
-      - 80:80
+      - 80:5000
 
 #  nginx:
 #    image: nginx:1.19.3
